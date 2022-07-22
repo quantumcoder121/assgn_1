@@ -1,0 +1,8 @@
+prefix=/home/oem/assgn1_ws/devel
+
+Name: custom_feed
+Description: Description of custom_feed
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
